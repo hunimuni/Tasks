@@ -1,0 +1,14 @@
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\bin\Debug\net8.0\Tasks.exe
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\bin\Debug\net8.0\Tasks.deps.json
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\bin\Debug\net8.0\Tasks.runtimeconfig.json
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\bin\Debug\net8.0\Tasks.dll
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\bin\Debug\net8.0\Tasks.pdb
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\obj\Debug\net8.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfoInputs.cache
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfo.cs
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\obj\Debug\net8.0\Tasks.csproj.CoreCompileInputs.cache
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\obj\Debug\net8.0\Tasks.dll
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\obj\Debug\net8.0\refint\Tasks.dll
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\obj\Debug\net8.0\Tasks.pdb
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
+f:\ОБУЧЕНИЕ\23. Таски\Tasks\Tasks\obj\Debug\net8.0\ref\Tasks.dll
